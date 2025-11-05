@@ -1,0 +1,288 @@
+iso3,country_name,unhcr_region,gis_name,name_fr,name_sp,color_code,terr_id,terr_name,secondary_territory,status_un,lon,lat
+AAA,,,Abyei,Abiyé,Abyei,AAA,,Abyei,1,Sovereignty unsettled,28.415,9.7867
+XJK,Jammu and Kashmir,,Jammu and Kashmir,Jammu et Cachemire,Jammu y Kashmir,AAA,,Jammu and Kashmir,1,Sovereignty unsettled,75.794,34.5792
+TUR,Türkiye,Regional Bureau for Europe,Türkiye,Türkiye,Türkiye,TUR,247,Turkey,,Member State,35.4406,39.0285
+JAM,Jamaica,Regional Bureau for the Americas ,Jamaica,Jamaïque,Jamaica,JAM,121,Jamaica,,Member State,-77.3109,18.1564
+NIU,Niue (NZL),Regional Bureau for Asia and the Pacific,Niue,Ile Niue,Niue,NZL,180,Niue,,NZ Territory,-169.8602,-19.05
+LTU,Lithuania,Regional Bureau for Europe,Lithuania,Lituanie,Lituania,LTU,143,Lithuania,,Member State,23.9045,55.3496
+GIB,Gibraltar (GBR),,Gibraltar (GBR),,,GBR,92,Gibraltar,1,UK Non-Self-Governing Territory,-5.3476,36.139
+CZE,Czechia,Regional Bureau for Europe,Czech Republic,République tchéque,República Checa,CZE,63,Czech Republic,,Member State,15.3294,49.7484
+ASM,American Samoa (USA),,American Samoa (USA),,,USA,4,American Samoa,1,US Non-Self-Governing Territory,-170.7187,-14.3059
+EST,Estonia,Regional Bureau for Europe,Estonia,Estonie,Estonia,EST,75,Estonia,,Member State,25.8413,58.6953
+KNA,Saint Kitts and Nevis,Regional Bureau for the Americas ,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,Saint Kitts y Nevis,KNA,205,Saint Kitts and Nevis,,Member State,-62.7663,17.34
+GUM,Guam (USA),,Guam (USA),,,USA,98,Guam,1,US Non-Self-Governing Territory,144.7029,13.3549
+ESH,Western Sahara,Regional Bureau for the Middle East and North Africa,Western Sahara,Sahara occidental,Sáhara Occidental,AAA,266,Western Sahara,1,Non-Self-Governing Territory,-13.1127,24.7073
+MDG,Madagascar,Regional Bureau for Eastern and Southern Africa,Madagascar,Madagascar,Madagascar,MDG,146,Madagascar,,Member State,46.6792,-19.4805
+LKA,Sri Lanka,Regional Bureau for Asia and the Pacific,Sri Lanka,Sri Lanka,Sri Lanka,LKA,228,Sri Lanka,,Member State,80.7046,7.6176
+GNQ,Equatorial Guinea,Regional Bureau for West and Central Africa,Equatorial Guinea,Guinée Équatoriale,Guinea Ecuatorial,GNQ,73,Equatorial Guinea,,Member State,10.4661,1.5661
+MKD,North Macedonia,Regional Bureau for Europe,North Macedonia,Macédoine du Nord,Macedonia del Norte,MKD,239,The former Yugoslav Republic of Macedonia,,Member State,21.7016,41.6032
+AAA,,,Ma'tan al-Sarra (EGY),,,EGY,,Ma'tan al-Sarra,1,Sovereignty unsettled,33.688,21.8884
+USA,United States of America,Regional Bureau for the Americas ,Howland Island (USA),,,USA,110,Howland Island,1,US Territory,-176.6403,0.8047
+EGY,Egypt,Regional Bureau for the Middle East and North Africa,Egypt,Égypte,Egipto,EGY,71,Egypt,,Member State,29.7676,26.6641
+MLT,Malta,Regional Bureau for Europe,Malta,Malte,Malta,MLT,152,Malta,,Member State,14.4462,35.892
+PRI,Puerto Rico (USA),Regional Bureau for the Americas ,Puerto Rico (USA),Puerto Rico (USA),Puerto Rico (USA),USA,197,Puerto Rico,1,US Territory,-66.4759,18.2277
+MRT,Mauritania,Regional Bureau for the Middle East and North Africa,Mauritania,Mauritanie,Mauritania,MRT,155,Mauritania,,Member State,-10.3191,20.3462
+RWA,Rwanda,Regional Bureau for Eastern and Southern Africa,Rwanda,Rwanda,Rwanda,RWA,203,Rwanda,,Member State,29.9231,-2
+VIR,United States Virgin Islands (USA),,United States Virgin Islands (USA),,,USA,257,United States Virgin Islands,1,US Non-Self-Governing Territory,-64.7721,17.7398
+MSR,Montserrat (GBR),Regional Bureau for Europe,Montserrat (GBR),Montserrat (GBR),Montserrat (GBR),GBR,165,Montserrat,1,UK Non-Self-Governing Territory,-62.1926,16.7356
+TGO,Togo,Regional Bureau for West and Central Africa,Togo,Togo,Togo,TGO,241,Togo,,Member State,0.9782,8.5362
+AUS,Australia,Regional Bureau for Asia and the Pacific,Ashmore and Cartier Islands (AUS),,,AUS,13,Ashmore and Cartier Islands,1,AU Territory,122.9683,-12.2739
+GRC,Greece,Regional Bureau for Europe,Greece,Grèce,Grecia,GRC,94,Greece,,Member State,22.5973,39.5149
+USA,United States of America,Regional Bureau for the Americas ,Kingman Reef (USA),,,USA,130,Kingman Reef,1,US Territory,-162.5614,6.4785
+PRY,Paraguay,Regional Bureau for the Americas ,Paraguay,Paraguay,Paraguay,PRY,191,Paraguay,,Member State,-58.3738,-23.2816
+SHN,Saint Helena (GBR),,Saint Helena (GBR),,,GBR,204,Saint Helena,1,UK Non-Self-Governing Territory,-12.2847,-37.1105
+SOM,Somalia,Regional Bureau for Eastern and Southern Africa,Somalia,Somalie,Somalia,SOM,223,Somalia,,Member State,46.2037,4.4065
+KIR,Kiribati,Regional Bureau for Asia and the Pacific,Kiribati,Kiribati,Kiribati,KIR,131,Kiribati,,Member State,-157.5643,1.7688
+PSE,State of Palestine,Regional Bureau for the Middle East and North Africa,Gaza strip (PSE),Bande de Gaza (PSE),Bande de Gaza (PSE),AAA,88,Gaza Strip,1,Gaza,34.3068,31.3235
+BRN,Brunei Darussalam,Regional Bureau for Asia and the Pacific,Brunei Darussalam,Brunéi Darusalam,Brunei Darussalam,BRN,38,Brunei Darussalam,,Member State,114.6289,4.4975
+BOL,Plurinational State of Bolivia,Regional Bureau for the Americas ,Plurinational State of Bolivia,État Plurinational de Bolivie,Estado Plurinacional de Bolivia,BOL,31,Bolivia,,Member State,-64.659,-16.7774
+BEL,Belgium,Regional Bureau for Europe,Belgium,Belgique,Bélgica,BEL,25,Belgium,,Member State,4.6573,50.6478
+LVA,Latvia,Regional Bureau for Europe,Latvia,Lettonie,Letonia,LVA,136,Latvia,,Member State,26.4244,56.6503
+KHM,Cambodia,Regional Bureau for Asia and the Pacific,Cambodia,Cambodge,Camboya,KHM,42,Cambodia,,Member State,104.9237,12.7174
+FRA,France,Regional Bureau for Europe,Tromelin Island (FRA),,,FRA,245,Tromelin Island,1,FR Territory,54.5203,-15.8865
+MDV,Maldives,Regional Bureau for Asia and the Pacific,Maldives,Maldives,Maldivas,MDV,150,Maldives,,Member State,73.0967,-0.6144
+SUR,Suriname,Regional Bureau for the Americas ,Suriname,Suriname,Suriname,SUR,230,Suriname,,Member State,-55.9062,4.1346
+CPV,Cabo Verde,Regional Bureau for West and Central Africa,Cabo Verde,Cap-Vert,Cabo Verde,CPV,45,Cape Verde,,Member State,-23.6355,15.078
+BDI,Burundi,Regional Bureau for Eastern and Southern Africa,Burundi,Burundi,Burundi,BDI,41,Burundi,,Member State,29.8904,-3.3669
+PLW,Palau,Regional Bureau for Asia and the Pacific,Palau,Palau,Palau,PLW,186,Palau,,Member State,134.5734,7.5023
+BLZ,Belize,Regional Bureau for the Americas ,Belize,Belize,Belice,BLZ,26,Belize,,Member State,-88.6993,17.2006
+VAT,Holy See,Regional Bureau for Europe,Holy See,Saint-Siège,Vaticano,VAT,107,Holy See,,The City of Vatican,12.4523,41.9034
+GRD,Grenada,Regional Bureau for the Americas ,Grenada,Grenade,Granada,GRD,96,Grenada,,Member State,-61.6825,12.1124
+GLP,Guadeloupe (FRA),Regional Bureau for Europe,Guadeloupe (FRA),Guadeloupe (FRA),Guadalupe (FRA),FRA,97,Guadeloupe,1,FR Territory,-61.6763,16.1612
+IRL,Ireland,Regional Bureau for Europe,Ireland,Irlande,Irlanda,IRL,117,Ireland,,Member State,-7.1214,53.2664
+KGZ,Kyrgyzstan,Regional Bureau for Asia and the Pacific,Kyrgyzstan,Kirghizistan,Kirguistán,KGZ,134,Kyrgyzstan,,Member State,74.5639,41.4819
+CUB,Cuba,Regional Bureau for the Americas ,Cuba,Cuba,Cuba,CUB,61,Cuba,,Member State,-79.5446,22.1011
+ITA,Italy,Regional Bureau for Europe,Italy,Italie,Italia,ITA,120,Italy,,Member State,12.5642,42.816
+COG,Republic of the Congo,Regional Bureau for West and Central Africa,Republic of the Congo,République du Congo,República del Congo,COG,56,Congo,,Member State,15.2401,-0.8313
+COL,Colombia,Regional Bureau for the Americas ,Colombia,Colombie,Colombia,COL,54,Colombia,,Member State,-73.0818,3.9288
+AAA,,,Spratly Islands (Sovereignty unsettled),,,AAA,227,Spratly Islands,1,Sovereignty unsettled,115.8224,10.7297
+SGP,Singapore,Regional Bureau for Asia and the Pacific,Singapore,Singapour,Singapur,SGP,219,Singapore,,Member State,103.8108,1.361
+GBR,United Kingdom of Great Britain and Northern Ireland,Regional Bureau for Europe,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande Bretagne et Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte,GBR,251,U.K. of Great Britain and Northern Ireland,,Member State,-0.2397,52.2712
+AAA,,,Ilemi Triangle (SSD),,,KEN,,Ilemi Triangle,1,Sovereignty unsettled,35.0377,4.7601
+SMR,San Marino,Regional Bureau for Europe,San Marino,Saint-Marin,San Marino,SMR,210,San Marino,,Member State,12.4592,43.9435
+FRA,France,Regional Bureau for Europe,Glorioso Island (FRA),,,FRA,93,Glorioso Island,1,FR Territory,47.2905,-11.5629
+PYF,French Polynesia (FRA),Regional Bureau for Europe,French Polynesia (FRA),Polynésie Française (FRA),Polinesia Francesa (FRA),FRA,84,French Polynesia,1,FR Territory,-149.4052,-17.6772
+SPM,Saint Pierre and Miquelon (FRA),,,,,FRA,207,Saint Pierre et Miquelon,1,FR Territory,-56.3368,46.8582
+MHL,Marshall Islands,Regional Bureau for Asia and the Pacific,Marshall Islands,Iles Marshall,Islas Marshall,MHL,153,Marshall Islands,,Member State,171.0839,7.1102
+LBR,Liberia,Regional Bureau for West and Central Africa,Liberia,Libéria,Liberia,LBR,140,Liberia,,Member State,-9.3092,6.4507
+WAK,,,Wake Island (USA),,,USA,263,Wake Island,1,US Territory,166.6439,19.2896
+MNP,Northern Mariana Islands (USA),Regional Bureau for Asia and the Pacific,Northern Mariana Islands (USA),Iles Mariannes du Nord (USA),Marianas del Norte (USA),USA,182,Northern Mariana Islands,1,US Territory,145.7582,15.191
+GHA,Ghana,Regional Bureau for West and Central Africa,Ghana,Ghana,Ghana,GHA,91,Ghana,,Member State,-1.2054,7.9749
+FRA,France,Regional Bureau for Europe,France,France,Francia,FRA,82,France,,Member State,2.4515,46.7461
+DNK,Denmark,Regional Bureau for Europe,Denmark,Danemark,Dinamarca,DNK,66,Denmark,,Member State,9.3617,56.2812
+VCT,Saint Vincent and the Grenadines,Regional Bureau for the Americas ,Saint Vincent and the Grenadines,Saint-Vincent-et-les-Grenadines,San Vicente y las Granadinas,VCT,208,Saint Vincent and the Grenadines,,Member State,-61.1902,13.2463
+SYC,Seychelles,Regional Bureau for Eastern and Southern Africa,Seychelles,Seychelles,Seychelles,SYC,217,Seychelles,,Member State,55.4656,-4.6781
+UZB,Uzbekistan,Regional Bureau for Asia and the Pacific,Uzbekistan,Ouzbékistan,Uzbekistán,UZB,259,Uzbekistan,,Member State,63.0751,41.8405
+VUT,Vanuatu,Regional Bureau for Asia and the Pacific,Vanuatu,Vanuatu,Vanuatu,VUT,260,Vanuatu,,Member State,167.068,-15.3446
+SAU,Saudi Arabia,Regional Bureau for the Middle East and North Africa,Saudi Arabia,Arabie saoudite,Arabia Saudita,SAU,212,Saudi Arabia,,Member State,44.4816,24.2825
+ARE,United Arab Emirates,Regional Bureau for the Middle East and North Africa,United Arab Emirates,Émirats arabes unis,Ermiratos Árabes Unidos,ARE,254,United Arab Emirates,,Member State,53.9828,23.4323
+PAK,Pakistan,Regional Bureau for Asia and the Pacific,Pakistan,Pakistan,Pakistán,PAK,185,Pakistan,,Member State,68.8616,29.4913
+SWZ,Eswatini,Regional Bureau for Eastern and Southern Africa,Eswatini,Eswatini,Eswatini,SWZ,232,Eswatini,,Member State,31.5015,-26.5667
+BES,"Bonaire, Saint Eustatius and Saba (NLD)",Regional Bureau for Europe,Saba (NLD),Saba (NLD),Saba (NLD),NLD,,"Bonaire, Sint Eustatius and Saba",1,NL Territory,-63.2317,17.639
+LBN,Lebanon,Regional Bureau for the Middle East and North Africa,Lebanon,Liban,Líbano,LBN,137,Lebanon,,Member State,35.8987,33.9251
+MMR,Myanmar,Regional Bureau for Asia and the Pacific,Myanmar,Myanmar,Myanmar,MMR,168,Myanmar,,Member State,96.5149,21.3171
+NOR,Norway,Regional Bureau for Europe,Norway,Norvège,Noruega,NOR,183,Norway,,Member State,11.4785,61.439
+BES,"Bonaire, Saint Eustatius and Saba (NLD)",Regional Bureau for Europe,Sint Eustatius (NLD),Sint Eustatius (NLD),Sint Eustatius (NLD),NLD,,"Bonaire, Sint Eustatius and Saba",1,NL Territory,-62.9751,17.4991
+UMI,United States Minor Outlying Islands,,Baker Island (USA),,,USA,20,Baker Island,1,US Territory,-176.4796,0.2001
+VEN,Bolivarian Republic of Venezuela,Regional Bureau for the Americas ,Bird Island (VEN),,,VEN,30,Bird Island,1,VE Territory,-63.6379,15.6988
+FSM,Federated States of Micronesia,Regional Bureau for Asia and the Pacific,Federated States of Micronesia,États fédérés de Micronésie,Estados Federados de Micronesia,FSM,159,Federated States of Micronesia,,Member State,158.2252,6.8807
+ESP,Spain,Regional Bureau for Europe,Canary Islands (ESP),Îles Canaries (ESP),Islas Canarias (ESP),ESP,226,Canary Islands,1,SP Territory,-15.5767,27.9485
+ARM,Armenia,Regional Bureau for Europe,Armenia,Arménie,Armenia,ARM,11,Armenia,,Member State,44.9326,40.3024
+MYT,Mayotte (FRA),,Mayotte (FRA),,,FRA,157,Mayotte,1,FR Territory,45.1402,-12.8222
+USA,United States of America,Regional Bureau for the Americas ,United States of America,États-Unis d'Amérique,Estados Unidos de América,USA,256,United States of America,,Member State,-99.6448,40.0097
+UKR,Ukraine,Regional Bureau for Europe,Ukraine,Ukraine,Ucrania,UKR,253,Ukraine,,Member State,31.3726,49.7243
+HND,Honduras,Regional Bureau for the Americas ,Honduras,Honduras,Honduras,HND,108,Honduras,,Member State,-86.5946,14.8235
+BGR,Bulgaria,Regional Bureau for Europe,Bulgaria,Bulgarie,Bulgaria,BGR,39,Bulgaria,,Member State,25.2421,42.7774
+ATG,Antigua and Barbuda,Regional Bureau for the Americas ,Antigua and Barbuda,Antigua-et-Barbuda,Antigua y Barbuda,ATG,9,Antigua and Barbuda,,Member State,-61.8,17.0776
+URY,Uruguay,Regional Bureau for the Americas ,Uruguay,Uruguay,Uruguay,URY,258,Uruguay,,Member State,-56.009,-32.8235
+KAZ,Kazakhstan,Regional Bureau for Asia and the Pacific,Kazakhstan,Kazakhstan,Kazajstán,KAZ,128,Kazakhstan,,Member State,67.2941,48.4405
+LSO,Lesotho,Regional Bureau for Eastern and Southern Africa,Lesotho,Lesotho,Lesotho,LSO,138,Lesotho,,Member State,28.2528,-29.5836
+PSE,State of Palestine,Regional Bureau for the Middle East and North Africa,State of Palestine,Etat de Palestine,,AAA,265,State of Palestine,,Occupied Palestinan Territory,35.2571,31.9452
+HMD,Heard Island and McDonald Islands (AUS),,,,,HMD,106,Heard Island and McDonald Islands,1,AU Territory,73.5264,-53.0912
+AAA,,,Paracel Islands (Sovereignty unsettled),,,AAA,190,Paracel Islands,1,Sovereignty unsettled,111.2011,15.7829
+GTM,Guatemala,Regional Bureau for the Americas ,Guatemala,Guatemala,Guatemala,GTM,100,Guatemala,,Member State,-91.2369,15.0069
+AFG,Afghanistan,Regional Bureau for Asia and the Pacific,Afghanistan,Afghanistan,Afganistán,AFG,1,Afghanistan,,Member State,66.0664,33.9098
+AAA,,,Aksai Chin (Sovereignty unsettled),,,AAA,,Aksai Chin,1,Sovereignty unsettled,79.1241,35.0296
+CYP,Cyprus,Regional Bureau for Europe,Cyprus,Chypre,Chipre,CYP,62,Cyprus,,Member State,33.2357,35.0501
+AUS,Australia,Regional Bureau for Asia and the Pacific,Australia,Australie,Australia,AUS,14,Australia,,Member State,134.4374,-26.0261
+TKM,Turkmenistan,Regional Bureau for Asia and the Pacific,Turkmenistan,Turkménistan,Turkmenistán,TKM,248,Turkmenistan,,Member State,59.3524,39.1668
+MYS,Malaysia,Regional Bureau for Asia and the Pacific,Malaysia,Malaisie,Malasia,MYS,149,Malaysia,,Member State,110.7531,4.8142
+NFK,Norfolk Island (AUS),,,,,AUS,181,Norfolk Island,1,AU Territory,168.0475,-29.0257
+SXM,Sint Maarten (K. of the Netherlands),Regional Bureau for Europe,Sint Maarten (K. of the Netherlands),Sint Maarten (R. des Pays-Bas),Sint Maarten (R. de los Países Bajos),NLD,,Sint Maarten,1,NL Self-Governing Territory,-63.0672,18.044
+NGA,Nigeria,Regional Bureau for West and Central Africa,Nigeria,Nigéria,Nigeria,NGA,179,Nigeria,,Member State,8.1018,9.609
+LCA,Saint Lucia,Regional Bureau for the Americas ,Saint Lucia,Sainte-Lucie,Santa Lucía,LCA,206,Saint Lucia,,Member State,-60.9653,13.8941
+AIA,Anguilla (GBR),Regional Bureau for Europe,Anguilla (GBR),,,GBR,7,Anguilla,1,UK Non-Self-Governing Territory,-63.0596,18.2214
+COM,Comoros,Regional Bureau for Eastern and Southern Africa,Comoros,Comores,Comoras,COM,55,Comoros,,Member State,43.3424,-11.6613
+VEN,Bolivarian Republic of Venezuela,Regional Bureau for the Americas ,Bolivarian Republic of Venezuela,République bolivarienne du Venezuela,República Bolivariana de Venezuela,VEN,261,Venezuela,,Member State,-66.1658,7.142
+BES,"Bonaire, Saint Eustatius and Saba (NLD)",Regional Bureau for Europe,Bonaire (NLD),Bonaire (NLD),Bonaire (NLD),NLD,,"Bonaire, Sint Eustatius and Saba",1,NL Territory,-68.3044,12.2189
+STP,Sao Tome and Principe,Regional Bureau for West and Central Africa,Sao Tome and Principe,Sao Tomé-et-Principe,Santo Tomé y Príncipe,STP,211,Sao Tome and Principe,,Member State,6.6098,0.2416
+AAA,,,Kuril Islands (RUS),,,RUS,132,Kuril Islands,1,Sovereignty unsettled,147.879,45.07
+KEN,Kenya,Regional Bureau for Eastern and Southern Africa,Kenya,Kenya,Kenya,KEN,129,Kenya,,Member State,37.8605,0.5344
+IND,India,Regional Bureau for Asia and the Pacific,India,Inde,India,IND,113,India,,Member State,79.3773,22.6178
+DZA,Algeria,Regional Bureau for the Middle East and North Africa,Algeria,Algérie,Argelia,DZA,3,Algeria,,Member State,2.6744,28.4204
+ISR,Israel,Regional Bureau for the Middle East and North Africa,Israel,Israël,Israel,ISR,119,Israel,,Member State,34.6228,31.0648
+CXR,Christmas Island (AUS),,,,,AUS,51,Christmas Island,1,AU Territory,105.6426,-10.4883
+GUF,French Guiana (FRA),Regional Bureau for Europe,French Guiana (FRA),Guyane Française (FRA),Guyana Francesa (FRA),FRA,83,French Guiana,1,FR Territory,-53.2348,3.9289
+SEN,Senegal,Regional Bureau for West and Central Africa,Senegal,Sénégal,Senegal,SEN,214,Senegal,,Member State,-14.4716,14.3674
+CRI,Costa Rica,Regional Bureau for the Americas ,Costa Rica,Costa Rica,Costa Rica,CRI,58,Costa Rica,,Member State,-84.1978,9.9732
+BWA,Botswana,Regional Bureau for Eastern and Southern Africa,Botswana,Botswana,Botswana,BWA,33,Botswana,,Member State,23.8084,-22.236
+MUS,Mauritius,Regional Bureau for Eastern and Southern Africa,Mauritius,Maurice,Mauricio,MUS,156,Mauritius,,Member State,57.568,-20.286
+SRB,Serbia*,Regional Bureau for Europe,Serbia*,Serbie*,Serbia,SRB,216,Serbia,,Member State,20.7969,44.0572
+AGO,Angola,Regional Bureau for Eastern and Southern Africa,Angola,Angola,Angola,AGO,6,Angola,,Member State,17.5799,-12.3934
+FJI,Fiji,Regional Bureau for Asia and the Pacific,Fiji,Fidji,Fiji,FJI,80,Fiji,,Member State,177.9661,-17.8334
+AUT,Austria,Regional Bureau for Europe,Austria,Autriche,Austria,AUT,15,Austria,,Member State,14.1481,47.5987
+HTI,Haiti,Regional Bureau for the Americas ,Haiti,Haïti,Haití,HTI,105,Haiti,,Member State,-73.046,18.3252
+ABW,Aruba (K. of the Netherlands),Regional Bureau for Europe,Aruba (K. of the Netherlands),Aruba (R. des Pays-Bas),Aruba (R. de los Países Bajos),NLD,12,Aruba,1,NL Self-Governing Territory,-69.9695,12.5079
+SLV,El Salvador,Regional Bureau for the Americas ,El Salvador,Salvador,El Salvador,SLV,72,El Salvador,,Member State,-88.8658,13.7302
+WLF,Wallis and Futuna,,,,,FRA,264,Wallis and Futuna,1,FR Territory,-176.1707,-13.2855
+IRN,Islamic Republic of Iran,Regional Bureau for Asia and the Pacific,Islamic Republic of Iran,République islamique d'Iran,República Islámica de Irán,IRN,115,Islamic Republic of Iran,,Member State,54.2199,32.764
+FRA,France,Regional Bureau for Europe,Europa Island (FRA),,,FRA,77,Europa Island,1,FR Territory,40.3388,-22.3397
+IDN,Indonesia,Regional Bureau for Asia and the Pacific,Indonesia,Indonésie,Indonesia,IDN,114,Indonesia,,Member State,113.6536,-2.9659
+HUN,Hungary,Regional Bureau for Europe,Hungary,Hongrie,Hungría,HUN,111,Hungary,,Member State,19.4264,47.178
+TUN,Tunisia,Regional Bureau for the Middle East and North Africa,Tunisia,Tunisie,Túnez,TUN,246,Tunisia,,Member State,9.5711,34.1645
+HKG,Hong Kong (CHN),Regional Bureau for Asia and the Pacific,Hong Kong (CHN),Hong Kong (CHN),Hong Kong (CHN),CHN,109,Hong Kong,1,CN Special Administrative Region,114.0266,22.398
+DEU,Germany,Regional Bureau for Europe,Germany,Allemagne,Alemania,DEU,90,Germany,,Member State,10.3909,51.2016
+FRA,France,Regional Bureau for Europe,Bassas da India (FRA),,,FRA,23,Bassas da India,1,FR Territory,39.7486,-21.4632
+LUX,Luxembourg,Regional Bureau for Europe,Luxembourg,Luxembourg,Luxemburgo,LUX,144,Luxembourg,,Member State,6.0946,49.7785
+CUW,Curaçao (K. of the Netherlands),Regional Bureau for Europe,Curaçao (K. of the Netherlands),Curaçao (R. des Pays-Bas),Curaçao (R. de los Países Bajos),NLD,,Curaçao,1,NL Self-Governing Territory,-68.9456,12.1423
+KOR,Republic of Korea,Regional Bureau for Asia and the Pacific,Republic of Korea,République de Corée,República de Corea,KOR,199,Republic of Korea,,Member State,127.8621,36.4711
+MEX,Mexico,Regional Bureau for the Americas ,Mexico,Mexique,México,MEX,158,Mexico,,Member State,-102.6911,24.1741
+KWT,Kuwait,Regional Bureau for the Middle East and North Africa,Kuwait,Koweït,Kuwait,KWT,133,Kuwait,,Member State,47.4932,29.5397
+IMN,Isle of Man (GBR),,Isle of Man (GBR),,,GBR,118,Isle of Man,1,UK territory,-4.5414,54.2308
+PRT,Portugal,Regional Bureau for Europe,Azores (PRT),Açores (PRT),Azores (PRT),PRT,17,Azores Islands,1,PT Territory,-25.4974,37.7742
+PRK,Democratic People's Rep. of Korea,Regional Bureau for Asia and the Pacific,Democratic People's Rep. of Korea,République populaire démocratique de Corée,República Popular Democrática de Corea,PRK,64,Democratic People's Republic of Korea,,Member State,127.1971,40.1789
+ESP,Spain,Regional Bureau for Europe,Spain,Espagne,España,ESP,226,Spain,,Member State,-3.5476,40.4756
+USA,United States of America,Regional Bureau for the Americas ,Jarvis Island (USA),,,USA,123,Jarvis Island,1,US Territory,-160.0176,-0.3799
+VNM,Viet Nam,Regional Bureau for Asia and the Pacific,Viet Nam,Viet Nam,Viet Nam,VNM,262,Viet Nam,,Member State,105.8025,10.0977
+TON,Tonga,Regional Bureau for Asia and the Pacific,Tonga,Tonga,Tonga,TON,243,Tonga,,Member State,-175.196,-21.1951
+COD,Democratic Republic of the Congo,Regional Bureau for West and Central Africa,Democratic Republic of the Congo,République démocratique du Congo,República Democrática del Congo,COD,65,Democratic Republic of the Congo,,Member State,23.6586,-2.9045
+SYR,Syrian Arab Republic,Regional Bureau for the Middle East and North Africa,Syrian Arab Republic,République arabe syrienne,República Árabe Siria,SYR,235,Syrian Arab Republic,,Member State,38.5213,35.0359
+VGB,British Virgin Islands (GBR),Regional Bureau for Europe,British Virgin Islands (GBR),Iles Vierges Britanniques (GBR),Islas Vírgenes Británicas (GBR),GBR,37,British Virgin Islands,1,UK Non-Self-Governing Territory,-64.6355,18.4294
+CAN,Canada,Regional Bureau for the Americas ,Canada,Canada,Canadá,CAN,44,Canada,,Member State,-104.2158,59.8338
+PAN,Panama,Regional Bureau for the Americas ,Panama,Panama,Panamá,PAN,188,Panama,,Member State,-78.6361,9.0769
+BGD,Bangladesh,Regional Bureau for Asia and the Pacific,Bangladesh,Bangladesh,Bangladesh,BGD,21,Bangladesh,,Member State,89.1914,22.8701
+FRA,France,Regional Bureau for Europe,Clipperton Island (FRA),,,FRA,52,Clipperton Island,1,FR Territory,-109.2167,10.2974
+DOM,Dominican Republic,Regional Bureau for the Americas ,Dominican Republic,République dominicaine,República Dominicana,DOM,69,Dominican Republic,,Member State,-70.4967,18.9005
+NZL,New Zealand,Regional Bureau for Asia and the Pacific,New Zealand,Nouvelle-Zélande,Nueva Zelandia,NZL,176,New Zealand,,Member State,170.4348,-44.0465
+DMA,Dominica,Regional Bureau for the Americas ,Dominica,Dominique,Dominica,DMA,68,Dominica,,Member State,-61.3562,15.4271
+MOZ,Mozambique,Regional Bureau for Eastern and Southern Africa,Mozambique,Mozambique,Mozambique,MOZ,167,Mozambique,,Member State,38.1848,-14.2996
+SGS,South Georgia and the South Sandwich Islands (GBR),Regional Bureau for Europe,South Georgia and the South Sandwich Islands (GBR),Géorgie du Sud-et-les Îles Sandwich du Sud (GBR),Islas Georgia del Sur y Sandwich del Sur (GBR),GBR,225,South Georgia and the South Sandwich Islands,1,UK Territory,-36.6784,-54.3754
+BIH,Bosnia and Herzegovina,Regional Bureau for Europe,Bosnia and Herzegovina,Bosnie-Herzégovine,Bosnia y Herzegovina,BIH,32,Bosnia and Herzegovina,,Member State,17.7813,44.181
+TZA,United Republic of Tanzania,Regional Bureau for Eastern and Southern Africa,United Republic of Tanzania,République-Unie de Tanzanie,Republica Unida de Tanzanía,TZA,255,United Republic of Tanzania,,Member State,34.8108,-6.2863
+TCD,Chad,Regional Bureau for West and Central Africa,Chad,Tchad,Chad,TCD,48,Chad,,Member State,18.6669,15.4513
+ROU,Romania,Regional Bureau for Europe,Romania,Roumanie,Rumania,ROU,201,Romania,,Member State,24.9828,45.8781
+BFA,Burkina Faso,Regional Bureau for West and Central Africa,Burkina Faso,Burkina Faso,Burkina Faso,BFA,40,Burkina Faso,,Member State,-1.7431,12.2825
+XJK,Jammu and Kashmir,,India administered Kashmir,Cachemire administré par l'Inde,,AAA,,India administered Kashmir,1,Sovereignty unsettled,76.5358,33.7448
+TLS,Timor-Leste,Regional Bureau for Asia and the Pacific,Timor-Leste,Timor-Leste,Timor-Leste,TLS,240,Timor-Leste,,Member State,125.9446,-8.7978
+JTN,,,Johnston Atoll (USA),,,USA,125,Johnston Atoll,1,US Territory,-169.5313,16.7328
+ZMB,Zambia,Regional Bureau for Eastern and Southern Africa,Zambia,Zambie,Zambia,ZMB,268,Zambia,,Member State,27.8525,-14.6095
+AZE,Azerbaijan,Regional Bureau for Europe,Azerbaijan,Azerbaïdjan,Azerbaiyán,AZE,16,Azerbaijan,,Member State,47.6554,40.3664
+BLM,Saint Barthélemy (FRA),,,,,FRA,97,Saint Barthélemy,1,FR Territory,-62.8344,17.8998
+GAB,Gabon,Regional Bureau for West and Central Africa,Gabon,Gabon,Gabón,GAB,86,Gabon,,Member State,11.7837,-0.6232
+FIN,Finland,Regional Bureau for Europe,Finland,Finlande,Finlandia,FIN,81,Finland,,Member State,23.3132,61.982
+LAO,Lao People's Democratic Republic,Regional Bureau for Asia and the Pacific,Lao People's Democratic Republic,République démocratique populaire lao,República Democrática Popular Lao,LAO,135,Lao People's Democratic Republic,,Member State,101.9902,20.2898
+IRQ,Iraq,Regional Bureau for the Middle East and North Africa,Iraq,Iraq,Iraq,IRQ,116,Iraq,,Member State,43.76,33.1158
+TKL,Tokelau (NZL),,Tokelau (NZL),,,GBR,242,Tokelau,1,NZ Non-Self-Governing Territory,-171.853,-9.1934
+MNG,Mongolia,Regional Bureau for Asia and the Pacific,Mongolia,Mongolie,Mongolia,MNG,163,Mongolia,,Member State,103.0329,46.9771
+USA,United States of America,Regional Bureau for the Americas ,Palmyra Atoll (USA),,,USA,187,Palmyra Atoll,1,US Territory,-162.4344,5.8744
+ARG,Argentina,Regional Bureau for the Americas ,Argentina,Argentine,Argentina,ARG,10,Argentina,,Member State,-63.9473,-33.275
+GUY,Guyana,Regional Bureau for the Americas ,Guyana,Guyana,Guyana,GUY,104,Guyana,,Member State,-58.9766,4.8003
+NRU,Nauru,Regional Bureau for Asia and the Pacific,Nauru,Nauru,Nauru,NRU,170,Nauru,,Member State,166.9231,-0.5287
+CMR,Cameroon,Regional Bureau for West and Central Africa,Cameroon,Cameroun,Camerún,CMR,43,Cameroon,,Member State,12.7462,5.7094
+ECU,Ecuador,Regional Bureau for the Americas ,Ecuador,Équateur,Ecuador,ECU,70,Ecuador,,Member State,-78.3684,-1.4555
+CHN,China,Regional Bureau for Asia and the Pacific,China,Chine,China,CHN,50,China,,Member State,104.1695,32.8221
+CCK,Cocos (Keeling) Islands,,,,,AUS,53,Cocos (Keeling) Islands,1,AU Territory,96.8328,-12.1627
+QAT,Qatar,Regional Bureau for the Middle East and North Africa,Qatar,Qatar,Qatar,QAT,198,Qatar,,Member State,51.1982,25.2826
+OMN,Oman,Regional Bureau for the Middle East and North Africa,Oman,Oman,Omán,OMN,184,Oman,,Member State,57.8774,21.9985
+YEM,Yemen,Regional Bureau for the Middle East and North Africa,Yemen,Yémen,Yemen,YEM,267,Yemen,,Member State,45.2235,15.234
+NER,Niger,Regional Bureau for West and Central Africa,Niger,Niger,Níger,NER,178,Niger,,Member State,9.4279,17.4828
+FLK,Falkland Islands (Malvinas),Regional Bureau for the Americas ,Falkland Islands (Malvinas),Iles Falkland (Malvinas),Islas Malvinas,GBR,78,Falkland Islands (Malvinas),1,UK Non-Self-Governing Territory,-58.754,-51.7476
+AAA,,,Senkaku Islands (Sovereignty unsettled),,,AAA,215,Senkaku Islands,1,Sovereignty unsettled,123.529,25.7723
+BVT,Bouvet Island (NOR),,Bouvet Island (NOR),,,NOR,34,Bouvet Island,1,NO Territory,3.4107,-54.433
+BTN,Bhutan,Regional Bureau for Asia and the Pacific,Bhutan,Bhoutan,Bhután,BTN,29,Bhutan,,Member State,90.448,27.3918
+PHL,Philippines,Regional Bureau for Asia and the Pacific,Philippines,Philippines,Filipinas,PHL,193,Philippines,,Member State,120.8601,14.1661
+TJK,Tajikistan,Regional Bureau for Asia and the Pacific,Tajikistan,Tadjikistan,Tayikistán,TJK,237,Tajikistan,,Member State,69.3247,38.3977
+WSM,Samoa,Regional Bureau for Asia and the Pacific,Samoa,Samoa,Samoa,WSM,209,Samoa,,Member State,-172.4431,-13.6155
+GRL,Greenland (DNK),Regional Bureau for Europe,Greenland (DNK),Groënland (DNK),Groenlandia (DNK),DNK,95,Greenland,1,DK Self-Governing Territory,-41.1377,77.3182
+SVK,Slovakia,Regional Bureau for Europe,Slovakia,Slovaquie,Eslovaquia,SVK,220,Slovakia,,Member State,19.491,48.712
+PER,Peru,Regional Bureau for the Americas ,Peru,Pérou,Perú,PER,192,Peru,,Member State,-71.8402,-13.612
+MLI,Mali,Regional Bureau for West and Central Africa,Mali,Mali,Malí,MLI,151,Mali,,Member State,-3.4984,17.4542
+JEY,Jersey (GBR),,Jersey (GBR),,,GBR,124,Jersey,1,UK Territory,-2.1411,49.2293
+TTO,Trinidad and Tobago,Regional Bureau for the Americas ,Trinidad and Tobago,Trinité-et-Tobago,Trinidad y Tabago,TTO,244,Trinidad and Tobago,,Member State,-61.2939,10.419
+JPN,Japan,Regional Bureau for Asia and the Pacific,Japan,Japon,Japón,JPN,122,Japan,,Member State,139.2716,36.6675
+HRV,Croatia,Regional Bureau for Europe,Croatia,Croatie,Croacia,HRV,60,Croatia,,Member State,17.9601,45.453
+MCO,Monaco,Regional Bureau for Europe,Monaco,Monaco,Mónaco,MCO,162,Monaco,,Member State,7.4219,43.7528
+NPL,Nepal,Regional Bureau for Asia and the Pacific,Nepal,Népal,Nepal,NPL,172,Nepal,,Member State,83.9298,28.2717
+BES,"Bonaire, Saint Eustatius and Saba (NLD)",Regional Bureau for Europe,Bonaire (NLD),Bonaire (NLD),Bonaire (NLD),NLD,,"Bonaire, Sint Eustatius and Saba",1,NL Territory,-68.3066,12.148
+SDN,Sudan,Regional Bureau for Eastern and Southern Africa,Sudan,Soudan,Súdan,SDN,229,Sudan,,Member State,29.9736,16.1072
+BLR,Belarus,Regional Bureau for Europe,Belarus,Bélarus,Belarús,BLR,24,Belarus,,Member State,28.0638,53.5894
+ZAF,South Africa,Regional Bureau for Eastern and Southern Africa,South Africa,Afrique du Sud,Sudáfrica,ZAF,224,South Africa,,Member State,24.6718,-30.0878
+NAM,Namibia,Regional Bureau for Eastern and Southern Africa,Namibia,Namibie,Namibia,NAM,169,Namibia,,Member State,17.227,-22.2522
+PCN,Pitcairn Islands (GBR),,Pitcairn Islands (GBR),,,GBR,194,Pitcairn Islands,1,UK Non-Self-Governing Territory,-128.3155,-24.3636
+BHS,Bahamas,Regional Bureau for the Americas ,Bahamas,Bahamas,Bahamas,BHS,18,Bahamas,,Member State,-78.0511,24.696
+NIC,Nicaragua,Regional Bureau for the Americas ,Nicaragua,Nicaragua,Nicaragua,NIC,177,Nicaragua,,Member State,-85.0331,12.8463
+DJI,Djibouti,Regional Bureau for Eastern and Southern Africa,Djibouti,Djibouti,Djibouti,DJI,67,Djibouti,,Member State,42.1827,11.5607
+COK,Cook Islands (NZL),Regional Bureau for Asia and the Pacific,Cook Islands,Iles Cook,Islas Cook,NZL,57,Cook Islands,,NZ Territory,-159.7711,-21.227
+BMU,Bermuda (GBR),Regional Bureau for Europe,Bermuda (GBR),Bermudes (GBR),Bermudas (GBR),GBR,28,Bermuda,1,UK Non-Self-Governing Territory,-64.7855,32.2798
+NCL,French New Caledonia (FRA),Regional Bureau for Europe,French New Caledonia (FRA),Nouvelle Calédonie (FRA),Nueva Caledonia (FRA),FRA,175,New Caledonia,1,FR Non-Self-Governing Territory,165.5067,-21.4177
+XJK,Jammu and Kashmir,,Pakistan administered Kashmir,Cachemire administré par le Pakistan,,AAA,,Pakistan administered Kashmir,1,Sovereignty unsettled,74.6961,35.8409
+MNE,Montenegro,Regional Bureau for Europe,Montenegro,Monténégro,Montenegro,MNE,164,Montenegro,,Member State,19.2477,42.7904
+PRT,Portugal,Regional Bureau for Europe,Portugal,Portugal,Portugal,PRT,196,Portugal,,Member State,-7.9562,39.7258
+GMB,Gambia,Regional Bureau for West and Central Africa,Gambia,Gambie,Gambia,GMB,87,Gambia,,Member State,-15.411,13.4518
+BHR,Bahrain,Regional Bureau for the Middle East and North Africa,Bahrain,Bahreïn,Bahrein,BHR,19,Bahrain,,Member State,50.5491,26.0442
+BEN,Benin,Regional Bureau for West and Central Africa,Benin,Bénin,Benin,BEN,27,Benin,,Member State,2.3404,9.6605
+AAA,,,Hala'ib triangle (SDN),,,SDN,,Hala'ib triangle,1,Sovereignty unsettled,35.5054,22.3658
+FRA,France,Regional Bureau for Europe,Juan de Nova Island (FRA),,,FRA,127,Juan de Nova Island,1,FR Territory,42.7374,-17.0559
+CAF,Central African Republic,Regional Bureau for West and Central Africa,Central African Republic,République centrafricaine,República Centroafricana,CAF,47,Central African Republic,,Member State,20.9378,7.0101
+ISL,Iceland,Regional Bureau for Europe,Iceland,Islande,Islandia,ISL,112,Iceland,,Member State,-19.0212,64.8266
+SVN,Slovenia,Regional Bureau for Europe,Slovenia,Slovénie,Eslovenia,SVN,221,Slovenia,,Member State,14.9929,46.0592
+BRB,Barbados,Regional Bureau for the Americas ,Barbados,Barbade,Barbados,BRB,22,Barbados,,Member State,-59.5346,13.1365
+CHE,Switzerland,Regional Bureau for Europe,Switzerland,Suisse,Suiza,CHE,234,Switzerland,,Member State,8.2245,46.9803
+RUS,Russian Federation,Regional Bureau for Europe,Russian Federation,Fédération de Russie,Federación de Rusia,RUS,202,Russian Federation,,Member State,100.9901,64.0491
+LIE,Liechtenstein,Regional Bureau for Europe,Liechtenstein,Liechtenstein,Liechtenstein,LIE,142,Liechtenstein,,Member State,9.554,47.1452
+PNG,Papua New Guinea,Regional Bureau for Asia and the Pacific,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea,PNG,189,Papua New Guinea,,Member State,145.8588,-6.7578
+SLB,Solomon Islands,Regional Bureau for Asia and the Pacific,Solomon Islands,Îles Salomon,Islas Salomón,SLB,222,Solomon Islands,,Member State,160.1585,-9.6225
+TUV,Tuvalu,Regional Bureau for Asia and the Pacific,Tuvalu,Tuvalu,Tuvalu,TUV,250,Tuvalu,,Member State,178.668,-7.46
+SSD,South Sudan,Regional Bureau for Eastern and Southern Africa,South Sudan,Soudan du Sud,Sudán de Sur,SSD,270,South Sudan,,Member State,30.3244,7.3023
+ATF,French Southern and Antarctic Territories (FRA),Regional Bureau for Europe,French Southern and Antarctic Territories (FRA),Terres Australes et Antarctiques Françaises (FRA),Francés Tierras Australes y Antárticas (FRA),FRA,85,French Southern and Antarctic Territories,1,FR Territory,69.4955,-49.3186
+MTQ,Martinique (FRA),Regional Bureau for Europe,Martinique (FRA),Martinique (FRA),Martinica (FRA),FRA,154,Martinique,1,FR Territory,-60.9192,14.5561
+GEO,Georgia,Regional Bureau for Europe,Georgia,Géorgie,Georgia,GEO,89,Georgia,,Member State,43.3658,42.0521
+GNB,Guinea-Bissau,Regional Bureau for West and Central Africa,Guinea-Bissau,Guinée-Bissau,Guinea-Bissau,GNB,103,Guinea-Bissau,,Member State,-14.4033,12.1175
+MID,,,Midway Island (USA),,,USA,160,Midway Island,1,US Territory,-177.3754,28.212
+AAA,,,China/India (Sovereignty unsettled),,,AAA,,China/India,1,Sovereignty unsettled,79.3417,32.8594
+USA,United States of America,Regional Bureau for the Americas ,Navassa Island (USA),,,USA,171,Navassa Island,1,US Territory,-75.0122,18.4097
+REU,Reunion (FRA),Regional Bureau for Europe,Reunion (FRA),Réunion (FRA),Reunión,FRA,200,Réunion,1,FR Territory,55.5401,-21.121
+POL,Poland,Regional Bureau for Europe,Poland,Pologne,Polonia,POL,195,Poland,,Member State,19.3922,52.1847
+MWI,Malawi,Regional Bureau for Eastern and Southern Africa,Malawi,Malawi,Malawi,MWI,148,Malawi,,Member State,33.4885,-13.4103
+THA,Thailand,Regional Bureau for Asia and the Pacific,Thailand,Thaïlande,Tailandia,THA,238,Thailand,,Member State,101.0209,15.1991
+ATA,Antarctica,,Antarctica,Antarctique,Antártida,ATA,8,Antarctica,1, ,9.1535,-85.9072
+CIV,Côte d'Ivoire,Regional Bureau for West and Central Africa,Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,CIV,59,Côte d'Ivoire,,Member State,-5.5533,7.6316
+UGA,Uganda,Regional Bureau for Eastern and Southern Africa,Uganda,Ouganda,Uganda,UGA,252,Uganda,,Member State,32.3912,1.2807
+PRT,Portugal,Regional Bureau for Europe,Madeira (PRT),,,PRT,147,Madeira Islands,1,PT Territory,-16.9953,32.7435
+MAR,Morocco,Regional Bureau for the Middle East and North Africa,Morocco,Maroc,Marruecos,MAR,166,Morocco,,Member State,-6.243,31.91
+TCA,Turks and Caicos Islands (GBR),Regional Bureau for Europe,Turks and Caicos Islands (GBR),Iles Turks et Caïques (GBR),Islas Turcas y Caicos (GBR),GBR,249,Turks and Caicos islands,1,UK Non-Self-Governing Territory,-71.7451,21.8078
+MDA,Republic of Moldova,Regional Bureau for Europe,Republic of Moldova,République de Moldova,República de Moldova,MDA,161,"Moldova, Republic of",,Member State,28.4682,47.2176
+SLE,Sierra Leone,Regional Bureau for West and Central Africa,Sierra Leone,Sierra Leone,Sierra Leona,SLE,218,Sierra Leone,,Member State,-11.7831,8.5726
+ETH,Ethiopia,Regional Bureau for Eastern and Southern Africa,Ethiopia,Éthiopie,Etiopía,ETH,76,Ethiopia,,Member State,39.6307,8.6605
+SJM,Jan Mayen Island (NOR),Regional Bureau for Europe,Jan Mayen Island (NOR),Ile Jan Mayen (NOR),Isla Jan Mayen (NOR),NOR,231,Svalbard and Jan Mayen Islands,1,NO Territory,13.3807,78.8457
+BRA,Brazil,Regional Bureau for the Americas ,Brazil,Brésil,Brasil,BRA,35,Brazil,,Member State,-53.0225,-11.175
+MAC,Macao (CHN),Regional Bureau for Asia and the Pacific,Macao (CHN),Macao (CHN),Macao (CHN),CHN,145,Macau,1,CN Special Administrative Region,113.5467,22.1974
+BES,"Bonaire, Saint Eustatius and Saba (NLD)",Regional Bureau for Europe,Bonaire (NLD),Bonaire (NLD),Bonaire (NLD),NLD,,"Bonaire, Sint Eustatius and Saba",1,NL Territory,-67.6592,11.9759
+TWN,Taiwan (CHN),Regional Bureau for Asia and the Pacific,Taiwan (CHN),Taiwan (CHN),Taiwan (CHN),CHN,236,Taiwan,1,CN Province,120.9711,23.7573
+CHL,Chile,Regional Bureau for the Americas ,Chile,Chili,Chile,CHL,49,Chile,,Member State,-69.7174,-26.3692
+CYM,Cayman Islands (GBR),Regional Bureau for Europe,Cayman Islands (GBR),Iles Caïmans (GBR),Islas Caimán (GBR),GBR,46,Cayman Islands,1,UK Non-Self-Governing Territory,-81.1767,19.325
+MAF,Saint Martin (FRA),Regional Bureau for Europe,Saint Martin (FRA),Saint Martin (FRA),Saint Martin (FRA),FRA,97,Saint Martin,1,FR Territory,-63.0662,18.0836
+AAA,,,Scarborough Reef (Sovereignty unsettled),,,AAA,213,Scarborough Reef,1,Sovereignty unsettled,117.7213,15.0905
+AND,Andorra,Regional Bureau for Europe,Andorra,Andorre,Andorra,AND,5,Andorra,,Member State,1.5762,42.5507
+AAA,,,Arunachal Pradesh (IND),,,IND,,Arunachal Pradesh,1,Sovereignty unsettled,94.3492,28.1323
+JOR,Jordan,Regional Bureau for the Middle East and North Africa,Jordan,Jordanie,Jordania,JOR,126,Jordan,,Member State,37.1291,30.6562
+LBY,Libya,Regional Bureau for the Middle East and North Africa,Libya,Libye,Libia,LBY,141,Libya,,Member State,18.0064,27.1529
+ZWE,Zimbabwe,Regional Bureau for Eastern and Southern Africa,Zimbabwe,Zimbabwe,Zimbabwe,ZWE,269,Zimbabwe,,Member State,29.8691,-19.0236
+GIN,Guinea,Regional Bureau for West and Central Africa,Guinea,Guinée,Guinea,GIN,102,Guinea,,Member State,-11.2833,11.0042
+SWE,Sweden,Regional Bureau for Europe,Sweden,Suède,Suecia,SWE,233,Sweden,,Member State,14.3792,60.9244
+ALB,Albania,Regional Bureau for Europe,Albania,Albanie,Albania,ALB,2,Albania,,Member State,20.0653,41.1519
+GGY,Guernsey (GBR),,Guernsey (GBR),,,GBR,101,Guernsey,1,UK Territory,-2.587,49.4616
+ERI,Eritrea,Regional Bureau for Eastern and Southern Africa,Eritrea,Érythrée,Eritrea,ERI,74,Eritrea,,Member State,38.1111,16.1363
+NLD,Netherlands (Kingdom of the),Regional Bureau for Europe,Netherlands (Kingdom of the),Pays-Bas (Royaume des),Países Bajos (Reino de los),NLD,173,Netherlands (Kingdom of the),,Member State,5.332,51.8726
+FRO,Faroe Islands (DNK),Regional Bureau for Europe,Faroe Islands (DNK),Îles Féroé (DNK),Islas Feroe (DNK),DNK,79,Faroe Islands,1,DK Territory,-7.122,62.2124
+IOT,Chagos Archipelago (MUS),,Chagos Archipelago (MUS),Archipel des Chagos (Maurice),,MUS,36,Chagos Archipelago,1,MU Territory,72.3872,-7.2993
