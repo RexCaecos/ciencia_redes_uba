@@ -1,0 +1,2009 @@
+{
+  "AFG": {
+    "iso3": "AFG",
+    "tipo": "continental",
+    "vecinos": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "n_vecinos": 6
+  },
+  "ALB": {
+    "iso3": "ALB",
+    "tipo": "continental",
+    "vecinos": [
+      "MNE",
+      "XKX",
+      "MKD",
+      "GRC"
+    ],
+    "n_vecinos": 4
+  },
+  "DZA": {
+    "iso3": "DZA",
+    "tipo": "continental",
+    "vecinos": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "n_vecinos": 7
+  },
+  "AND": {
+    "iso3": "AND",
+    "tipo": "continental",
+    "vecinos": [
+      "ESP",
+      "FRA"
+    ],
+    "n_vecinos": 2
+  },
+  "AGO": {
+    "iso3": "AGO",
+    "tipo": "continental",
+    "vecinos": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "n_vecinos": 4
+  },
+  "ARG": {
+    "iso3": "ARG",
+    "tipo": "continental",
+    "vecinos": [
+      "CHL",
+      "BOL",
+      "PRY",
+      "BRA",
+      "URY"
+    ],
+    "n_vecinos": 5
+  },
+  "ARM": {
+    "iso3": "ARM",
+    "tipo": "continental",
+    "vecinos": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "n_vecinos": 4
+  },
+  "AUT": {
+    "iso3": "AUT",
+    "tipo": "continental",
+    "vecinos": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "n_vecinos": 8
+  },
+  "AZE": {
+    "iso3": "AZE",
+    "tipo": "continental",
+    "vecinos": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "n_vecinos": 5
+  },
+  "BHS": {
+    "iso3": "BHS",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "USA",
+    "n_vecinos": 0
+  },
+  "BHR": {
+    "iso3": "BHR",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "SAU",
+    "n_vecinos": 0
+  },
+  "BGD": {
+    "iso3": "BGD",
+    "tipo": "continental",
+    "vecinos": [
+      "IND",
+      "MMR"
+    ],
+    "n_vecinos": 2
+  },
+  "BRB": {
+    "iso3": "BRB",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "VEN",
+    "n_vecinos": 0
+  },
+  "BLR": {
+    "iso3": "BLR",
+    "tipo": "continental",
+    "vecinos": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "n_vecinos": 5
+  },
+  "BEL": {
+    "iso3": "BEL",
+    "tipo": "continental",
+    "vecinos": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "n_vecinos": 4
+  },
+  "BLZ": {
+    "iso3": "BLZ",
+    "tipo": "continental",
+    "vecinos": [
+      "GTM",
+      "MEX"
+    ],
+    "n_vecinos": 2
+  },
+  "BEN": {
+    "iso3": "BEN",
+    "tipo": "continental",
+    "vecinos": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "n_vecinos": 4
+  },
+  "BTN": {
+    "iso3": "BTN",
+    "tipo": "continental",
+    "vecinos": [
+      "CHN",
+      "IND"
+    ],
+    "n_vecinos": 2
+  },
+  "BOL": {
+    "iso3": "BOL",
+    "tipo": "continental",
+    "vecinos": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "n_vecinos": 5
+  },
+  "BIH": {
+    "iso3": "BIH",
+    "tipo": "continental",
+    "vecinos": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "n_vecinos": 3
+  },
+  "BWA": {
+    "iso3": "BWA",
+    "tipo": "continental",
+    "vecinos": [
+      "NAM",
+      "ZAF",
+      "ZWE",
+      "ZMB"
+    ],
+    "n_vecinos": 4
+  },
+  "BRA": {
+    "iso3": "BRA",
+    "tipo": "continental",
+    "vecinos": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "n_vecinos": 10
+  },
+  "BRN": {
+    "iso3": "BRN",
+    "tipo": "continental",
+    "vecinos": [
+      "MYS"
+    ],
+    "n_vecinos": 1
+  },
+  "BGR": {
+    "iso3": "BGR",
+    "tipo": "continental",
+    "vecinos": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "n_vecinos": 5
+  },
+  "BFA": {
+    "iso3": "BFA",
+    "tipo": "continental",
+    "vecinos": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "n_vecinos": 6
+  },
+  "BDI": {
+    "iso3": "BDI",
+    "tipo": "continental",
+    "vecinos": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "n_vecinos": 3
+  },
+  "CPV": {
+    "iso3": "CPV",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "SEN",
+    "n_vecinos": 0
+  },
+  "KHM": {
+    "iso3": "KHM",
+    "tipo": "continental",
+    "vecinos": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "n_vecinos": 3
+  },
+  "CMR": {
+    "iso3": "CMR",
+    "tipo": "continental",
+    "vecinos": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "n_vecinos": 6
+  },
+  "CAN": {
+    "iso3": "CAN",
+    "tipo": "continental",
+    "vecinos": [
+      "USA"
+    ],
+    "n_vecinos": 1
+  },
+  "CAF": {
+    "iso3": "CAF",
+    "tipo": "continental",
+    "vecinos": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "n_vecinos": 6
+  },
+  "TCD": {
+    "iso3": "TCD",
+    "tipo": "continental",
+    "vecinos": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ],
+    "n_vecinos": 6
+  },
+  "CHL": {
+    "iso3": "CHL",
+    "tipo": "continental",
+    "vecinos": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "n_vecinos": 3
+  },
+  "CHN": {
+    "iso3": "CHN",
+    "tipo": "continental",
+    "vecinos": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "IND",
+      "KAZ",
+      "KGZ",
+      "LAO",
+      "MNG",
+      "NPL",
+      "PRK",
+      "RUS",
+      "TJK",
+      "VNM",
+      "PAK"
+    ],
+    "n_vecinos": 14
+  },
+  "COL": {
+    "iso3": "COL",
+    "tipo": "continental",
+    "vecinos": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "n_vecinos": 5
+  },
+  "COM": {
+    "iso3": "COM",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "MOZ",
+    "n_vecinos": 0
+  },
+  "COG": {
+    "iso3": "COG",
+    "tipo": "continental",
+    "vecinos": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "n_vecinos": 5
+  },
+  "COD": {
+    "iso3": "COD",
+    "tipo": "continental",
+    "vecinos": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "n_vecinos": 9
+  },
+  "CRI": {
+    "iso3": "CRI",
+    "tipo": "continental",
+    "vecinos": [
+      "NIC",
+      "PAN"
+    ],
+    "n_vecinos": 2
+  },
+  "CIV": {
+    "iso3": "CIV",
+    "tipo": "continental",
+    "vecinos": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "n_vecinos": 5
+  },
+  "HRV": {
+    "iso3": "HRV",
+    "tipo": "continental",
+    "vecinos": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "n_vecinos": 5
+  },
+  "CUB": {
+    "iso3": "CUB",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "USA",
+    "n_vecinos": 0
+  },
+  "CYP": {
+    "iso3": "CYP",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "TUR",
+    "n_vecinos": 0
+  },
+  "CZE": {
+    "iso3": "CZE",
+    "tipo": "continental",
+    "vecinos": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "n_vecinos": 4
+  },
+  "DNK": {
+    "iso3": "DNK",
+    "tipo": "continental",
+    "vecinos": [
+      "DEU"
+    ],
+    "n_vecinos": 1
+  },
+  "DJI": {
+    "iso3": "DJI",
+    "tipo": "continental",
+    "vecinos": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "n_vecinos": 3
+  },
+  "DMA": {
+    "iso3": "DMA",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "VEN",
+    "n_vecinos": 0
+  },
+  "DOM": {
+    "iso3": "DOM",
+    "tipo": "continental",
+    "vecinos": [
+      "HTI"
+    ],
+    "n_vecinos": 1
+  },
+  "ECU": {
+    "iso3": "ECU",
+    "tipo": "continental",
+    "vecinos": [
+      "COL",
+      "PER"
+    ],
+    "n_vecinos": 2
+  },
+  "EGY": {
+    "iso3": "EGY",
+    "tipo": "continental",
+    "vecinos": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ],
+    "n_vecinos": 3
+  },
+  "SLV": {
+    "iso3": "SLV",
+    "tipo": "continental",
+    "vecinos": [
+      "GTM",
+      "HND"
+    ],
+    "n_vecinos": 2
+  },
+  "GNQ": {
+    "iso3": "GNQ",
+    "tipo": "continental",
+    "vecinos": [
+      "CMR",
+      "GAB"
+    ],
+    "n_vecinos": 2
+  },
+  "ERI": {
+    "iso3": "ERI",
+    "tipo": "continental",
+    "vecinos": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "n_vecinos": 3
+  },
+  "EST": {
+    "iso3": "EST",
+    "tipo": "continental",
+    "vecinos": [
+      "LVA",
+      "RUS"
+    ],
+    "n_vecinos": 2
+  },
+  "SWZ": {
+    "iso3": "SWZ",
+    "tipo": "continental",
+    "vecinos": [
+      "MOZ",
+      "ZAF"
+    ],
+    "n_vecinos": 2
+  },
+  "ETH": {
+    "iso3": "ETH",
+    "tipo": "continental",
+    "vecinos": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "n_vecinos": 6
+  },
+  "FJI": {
+    "iso3": "FJI",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "AUS",
+    "n_vecinos": 0
+  },
+  "FIN": {
+    "iso3": "FIN",
+    "tipo": "continental",
+    "vecinos": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "n_vecinos": 3
+  },
+  "FRA": {
+    "iso3": "FRA",
+    "tipo": "continental",
+    "vecinos": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "n_vecinos": 8
+  },
+  "GAB": {
+    "iso3": "GAB",
+    "tipo": "continental",
+    "vecinos": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "n_vecinos": 3
+  },
+  "GMB": {
+    "iso3": "GMB",
+    "tipo": "continental",
+    "vecinos": [
+      "SEN"
+    ],
+    "n_vecinos": 1
+  },
+  "GEO": {
+    "iso3": "GEO",
+    "tipo": "continental",
+    "vecinos": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "n_vecinos": 4
+  },
+  "DEU": {
+    "iso3": "DEU",
+    "tipo": "continental",
+    "vecinos": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "n_vecinos": 9
+  },
+  "GHA": {
+    "iso3": "GHA",
+    "tipo": "continental",
+    "vecinos": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "n_vecinos": 3
+  },
+  "GRC": {
+    "iso3": "GRC",
+    "tipo": "continental",
+    "vecinos": [
+      "ALB",
+      "BGR",
+      "MKD",
+      "TUR"
+    ],
+    "n_vecinos": 4
+  },
+  "GRD": {
+    "iso3": "GRD",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "VEN",
+    "n_vecinos": 0
+  },
+  "GTM": {
+    "iso3": "GTM",
+    "tipo": "continental",
+    "vecinos": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "n_vecinos": 4
+  },
+  "GIN": {
+    "iso3": "GIN",
+    "tipo": "continental",
+    "vecinos": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "n_vecinos": 6
+  },
+  "GNB": {
+    "iso3": "GNB",
+    "tipo": "continental",
+    "vecinos": [
+      "GIN",
+      "SEN"
+    ],
+    "n_vecinos": 2
+  },
+  "GUY": {
+    "iso3": "GUY",
+    "tipo": "continental",
+    "vecinos": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "n_vecinos": 3
+  },
+  "HTI": {
+    "iso3": "HTI",
+    "tipo": "continental",
+    "vecinos": [
+      "DOM"
+    ],
+    "n_vecinos": 1
+  },
+  "HND": {
+    "iso3": "HND",
+    "tipo": "continental",
+    "vecinos": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "n_vecinos": 3
+  },
+  "HUN": {
+    "iso3": "HUN",
+    "tipo": "continental",
+    "vecinos": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "n_vecinos": 7
+  },
+  "ISL": {
+    "iso3": "ISL",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "GBR",
+    "n_vecinos": 0
+  },
+  "IND": {
+    "iso3": "IND",
+    "tipo": "continental",
+    "vecinos": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ],
+    "n_vecinos": 6
+  },
+  "IDN": {
+    "iso3": "IDN",
+    "tipo": "continental",
+    "vecinos": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "n_vecinos": 3
+  },
+  "IRN": {
+    "iso3": "IRN",
+    "tipo": "continental",
+    "vecinos": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "n_vecinos": 7
+  },
+  "IRQ": {
+    "iso3": "IRQ",
+    "tipo": "continental",
+    "vecinos": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "n_vecinos": 6
+  },
+  "IRL": {
+    "iso3": "IRL",
+    "tipo": "continental",
+    "vecinos": [
+      "GBR"
+    ],
+    "n_vecinos": 1
+  },
+  "ISR": {
+    "iso3": "ISR",
+    "tipo": "continental",
+    "vecinos": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "PSE",
+      "SYR"
+    ],
+    "n_vecinos": 5
+  },
+  "ITA": {
+    "iso3": "ITA",
+    "tipo": "continental",
+    "vecinos": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "n_vecinos": 6
+  },
+  "JAM": {
+    "iso3": "JAM",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "USA",
+    "n_vecinos": 0
+  },
+  "JPN": {
+    "iso3": "JPN",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "CHN",
+    "n_vecinos": 0
+  },
+  "JOR": {
+    "iso3": "JOR",
+    "tipo": "continental",
+    "vecinos": [
+      "IRQ",
+      "ISR",
+      "PSE",
+      "SAU",
+      "SYR"
+    ],
+    "n_vecinos": 5
+  },
+  "KAZ": {
+    "iso3": "KAZ",
+    "tipo": "continental",
+    "vecinos": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "n_vecinos": 5
+  },
+  "KEN": {
+    "iso3": "KEN",
+    "tipo": "continental",
+    "vecinos": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "n_vecinos": 5
+  },
+  "KIR": {
+    "iso3": "KIR",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "AUS",
+    "n_vecinos": 0
+  },
+  "PRK": {
+    "iso3": "PRK",
+    "tipo": "continental",
+    "vecinos": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "n_vecinos": 3
+  },
+  "KOR": {
+    "iso3": "KOR",
+    "tipo": "continental",
+    "vecinos": [
+      "PRK"
+    ],
+    "n_vecinos": 1
+  },
+  "XKX": {
+    "iso3": "XKX",
+    "tipo": "continental",
+    "vecinos": [
+      "ALB",
+      "MKD",
+      "MNE",
+      "SRB"
+    ],
+    "n_vecinos": 4
+  },
+  "KWT": {
+    "iso3": "KWT",
+    "tipo": "continental",
+    "vecinos": [
+      "IRQ",
+      "SAU"
+    ],
+    "n_vecinos": 2
+  },
+  "KGZ": {
+    "iso3": "KGZ",
+    "tipo": "continental",
+    "vecinos": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "n_vecinos": 4
+  },
+  "LAO": {
+    "iso3": "LAO",
+    "tipo": "continental",
+    "vecinos": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "n_vecinos": 5
+  },
+  "LVA": {
+    "iso3": "LVA",
+    "tipo": "continental",
+    "vecinos": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "n_vecinos": 4
+  },
+  "LBN": {
+    "iso3": "LBN",
+    "tipo": "continental",
+    "vecinos": [
+      "ISR",
+      "SYR"
+    ],
+    "n_vecinos": 2
+  },
+  "LSO": {
+    "iso3": "LSO",
+    "tipo": "continental",
+    "vecinos": [
+      "ZAF"
+    ],
+    "n_vecinos": 1
+  },
+  "LBR": {
+    "iso3": "LBR",
+    "tipo": "continental",
+    "vecinos": [
+      "CIV",
+      "GIN",
+      "SLE"
+    ],
+    "n_vecinos": 3
+  },
+  "LBY": {
+    "iso3": "LBY",
+    "tipo": "continental",
+    "vecinos": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "n_vecinos": 6
+  },
+  "LIE": {
+    "iso3": "LIE",
+    "tipo": "continental",
+    "vecinos": [
+      "AUT",
+      "CHE"
+    ],
+    "n_vecinos": 2
+  },
+  "LTU": {
+    "iso3": "LTU",
+    "tipo": "continental",
+    "vecinos": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "n_vecinos": 4
+  },
+  "LUX": {
+    "iso3": "LUX",
+    "tipo": "continental",
+    "vecinos": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "n_vecinos": 3
+  },
+  "MDG": {
+    "iso3": "MDG",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "MOZ",
+    "n_vecinos": 0
+  },
+  "MWI": {
+    "iso3": "MWI",
+    "tipo": "continental",
+    "vecinos": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "n_vecinos": 3
+  },
+  "MYS": {
+    "iso3": "MYS",
+    "tipo": "continental",
+    "vecinos": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "n_vecinos": 3
+  },
+  "MDV": {
+    "iso3": "MDV",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "IND",
+    "n_vecinos": 0
+  },
+  "MLI": {
+    "iso3": "MLI",
+    "tipo": "continental",
+    "vecinos": [
+      "DZA",
+      "BFA",
+      "CIV",
+      "GIN",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "n_vecinos": 7
+  },
+  "MLT": {
+    "iso3": "MLT",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "ITA",
+    "n_vecinos": 0
+  },
+  "MHL": {
+    "iso3": "MHL",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "USA",
+    "n_vecinos": 0
+  },
+  "MRT": {
+    "iso3": "MRT",
+    "tipo": "continental",
+    "vecinos": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "n_vecinos": 4
+  },
+  "MUS": {
+    "iso3": "MUS",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "MDG",
+    "n_vecinos": 0
+  },
+  "MEX": {
+    "iso3": "MEX",
+    "tipo": "continental",
+    "vecinos": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "n_vecinos": 3
+  },
+  "FSM": {
+    "iso3": "FSM",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "PNG",
+    "n_vecinos": 0
+  },
+  "MDA": {
+    "iso3": "MDA",
+    "tipo": "continental",
+    "vecinos": [
+      "ROU",
+      "UKR"
+    ],
+    "n_vecinos": 2
+  },
+  "MCO": {
+    "iso3": "MCO",
+    "tipo": "continental",
+    "vecinos": [
+      "FRA"
+    ],
+    "n_vecinos": 1
+  },
+  "MNG": {
+    "iso3": "MNG",
+    "tipo": "continental",
+    "vecinos": [
+      "CHN",
+      "RUS"
+    ],
+    "n_vecinos": 2
+  },
+  "MNE": {
+    "iso3": "MNE",
+    "tipo": "continental",
+    "vecinos": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "XKX",
+      "SRB"
+    ],
+    "n_vecinos": 5
+  },
+  "MAR": {
+    "iso3": "MAR",
+    "tipo": "continental",
+    "vecinos": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "n_vecinos": 3
+  },
+  "MOZ": {
+    "iso3": "MOZ",
+    "tipo": "continental",
+    "vecinos": [
+      "SWZ",
+      "MWI",
+      "ZAF",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "n_vecinos": 6
+  },
+  "MMR": {
+    "iso3": "MMR",
+    "tipo": "continental",
+    "vecinos": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "n_vecinos": 5
+  },
+  "NAM": {
+    "iso3": "NAM",
+    "tipo": "continental",
+    "vecinos": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "n_vecinos": 4
+  },
+  "NRU": {
+    "iso3": "NRU",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "AUS",
+    "n_vecinos": 0
+  },
+  "NPL": {
+    "iso3": "NPL",
+    "tipo": "continental",
+    "vecinos": [
+      "CHN",
+      "IND"
+    ],
+    "n_vecinos": 2
+  },
+  "NLD": {
+    "iso3": "NLD",
+    "tipo": "continental",
+    "vecinos": [
+      "BEL",
+      "DEU"
+    ],
+    "n_vecinos": 2
+  },
+  "NZL": {
+    "iso3": "NZL",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "AUS",
+    "n_vecinos": 0
+  },
+  "NIC": {
+    "iso3": "NIC",
+    "tipo": "continental",
+    "vecinos": [
+      "CRI",
+      "HND"
+    ],
+    "n_vecinos": 2
+  },
+  "NER": {
+    "iso3": "NER",
+    "tipo": "continental",
+    "vecinos": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "n_vecinos": 7
+  },
+  "NGA": {
+    "iso3": "NGA",
+    "tipo": "continental",
+    "vecinos": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "n_vecinos": 4
+  },
+  "MKD": {
+    "iso3": "MKD",
+    "tipo": "continental",
+    "vecinos": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "XKX",
+      "SRB"
+    ],
+    "n_vecinos": 5
+  },
+  "NOR": {
+    "iso3": "NOR",
+    "tipo": "continental",
+    "vecinos": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "n_vecinos": 3
+  },
+  "OMN": {
+    "iso3": "OMN",
+    "tipo": "continental",
+    "vecinos": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "n_vecinos": 3
+  },
+  "PAK": {
+    "iso3": "PAK",
+    "tipo": "continental",
+    "vecinos": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "n_vecinos": 4
+  },
+  "PLW": {
+    "iso3": "PLW",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "PHL",
+    "n_vecinos": 0
+  },
+  "PSE": {
+    "iso3": "PSE",
+    "tipo": "continental",
+    "vecinos": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "n_vecinos": 3
+  },
+  "PAN": {
+    "iso3": "PAN",
+    "tipo": "continental",
+    "vecinos": [
+      "COL",
+      "CRI"
+    ],
+    "n_vecinos": 2
+  },
+  "PNG": {
+    "iso3": "PNG",
+    "tipo": "continental",
+    "vecinos": [
+      "IDN"
+    ],
+    "n_vecinos": 1
+  },
+  "PRY": {
+    "iso3": "PRY",
+    "tipo": "continental",
+    "vecinos": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "n_vecinos": 3
+  },
+  "PER": {
+    "iso3": "PER",
+    "tipo": "continental",
+    "vecinos": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "n_vecinos": 5
+  },
+  "PHL": {
+    "iso3": "PHL",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "CHN",
+    "n_vecinos": 0
+  },
+  "POL": {
+    "iso3": "POL",
+    "tipo": "continental",
+    "vecinos": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "n_vecinos": 7
+  },
+  "PRT": {
+    "iso3": "PRT",
+    "tipo": "continental",
+    "vecinos": [
+      "ESP"
+    ],
+    "n_vecinos": 1
+  },
+  "QAT": {
+    "iso3": "QAT",
+    "tipo": "continental",
+    "vecinos": [
+      "SAU"
+    ],
+    "n_vecinos": 1
+  },
+  "ROU": {
+    "iso3": "ROU",
+    "tipo": "continental",
+    "vecinos": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "n_vecinos": 5
+  },
+  "RUS": {
+    "iso3": "RUS",
+    "tipo": "continental",
+    "vecinos": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "n_vecinos": 14
+  },
+  "RWA": {
+    "iso3": "RWA",
+    "tipo": "continental",
+    "vecinos": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "n_vecinos": 4
+  },
+  "KNA": {
+    "iso3": "KNA",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "VEN",
+    "n_vecinos": 0
+  },
+  "LCA": {
+    "iso3": "LCA",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "VEN",
+    "n_vecinos": 0
+  },
+  "VCT": {
+    "iso3": "VCT",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "VEN",
+    "n_vecinos": 0
+  },
+  "WSM": {
+    "iso3": "WSM",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "AUS",
+    "n_vecinos": 0
+  },
+  "SMR": {
+    "iso3": "SMR",
+    "tipo": "continental",
+    "vecinos": [
+      "ITA"
+    ],
+    "n_vecinos": 1
+  },
+  "STP": {
+    "iso3": "STP",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "GAB",
+    "n_vecinos": 0
+  },
+  "SAU": {
+    "iso3": "SAU",
+    "tipo": "continental",
+    "vecinos": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "n_vecinos": 7
+  },
+  "SEN": {
+    "iso3": "SEN",
+    "tipo": "continental",
+    "vecinos": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "n_vecinos": 5
+  },
+  "SRB": {
+    "iso3": "SRB",
+    "tipo": "continental",
+    "vecinos": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "XKX",
+      "MKD",
+      "MNE",
+      "ROU"
+    ],
+    "n_vecinos": 8
+  },
+  "SYC": {
+    "iso3": "SYC",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "KEN",
+    "n_vecinos": 0
+  },
+  "SLE": {
+    "iso3": "SLE",
+    "tipo": "continental",
+    "vecinos": [
+      "GIN",
+      "LBR"
+    ],
+    "n_vecinos": 2
+  },
+  "SGP": {
+    "iso3": "SGP",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "MYS",
+    "n_vecinos": 0
+  },
+  "SVK": {
+    "iso3": "SVK",
+    "tipo": "continental",
+    "vecinos": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "n_vecinos": 5
+  },
+  "SVN": {
+    "iso3": "SVN",
+    "tipo": "continental",
+    "vecinos": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "n_vecinos": 4
+  },
+  "SLB": {
+    "iso3": "SLB",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "PNG",
+    "n_vecinos": 0
+  },
+  "SOM": {
+    "iso3": "SOM",
+    "tipo": "continental",
+    "vecinos": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "n_vecinos": 3
+  },
+  "ZAF": {
+    "iso3": "ZAF",
+    "tipo": "continental",
+    "vecinos": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "n_vecinos": 6
+  },
+  "SSD": {
+    "iso3": "SSD",
+    "tipo": "continental",
+    "vecinos": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "n_vecinos": 6
+  },
+  "ESP": {
+    "iso3": "ESP",
+    "tipo": "continental",
+    "vecinos": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "n_vecinos": 5
+  },
+  "LKA": {
+    "iso3": "LKA",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "IND",
+    "n_vecinos": 0
+  },
+  "SDN": {
+    "iso3": "SDN",
+    "tipo": "continental",
+    "vecinos": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "n_vecinos": 7
+  },
+  "SUR": {
+    "iso3": "SUR",
+    "tipo": "continental",
+    "vecinos": [
+      "BRA",
+      "GUY",
+      "GUF"
+    ],
+    "n_vecinos": 3
+  },
+  "SWE": {
+    "iso3": "SWE",
+    "tipo": "continental",
+    "vecinos": [
+      "FIN",
+      "NOR"
+    ],
+    "n_vecinos": 2
+  },
+  "CHE": {
+    "iso3": "CHE",
+    "tipo": "continental",
+    "vecinos": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "n_vecinos": 5
+  },
+  "SYR": {
+    "iso3": "SYR",
+    "tipo": "continental",
+    "vecinos": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "n_vecinos": 5
+  },
+  "TWN": {
+    "iso3": "TWN",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "CHN",
+    "n_vecinos": 0
+  },
+  "TJK": {
+    "iso3": "TJK",
+    "tipo": "continental",
+    "vecinos": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "n_vecinos": 4
+  },
+  "TZA": {
+    "iso3": "TZA",
+    "tipo": "continental",
+    "vecinos": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "n_vecinos": 8
+  },
+  "THA": {
+    "iso3": "THA",
+    "tipo": "continental",
+    "vecinos": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "n_vecinos": 4
+  },
+  "TLS": {
+    "iso3": "TLS",
+    "tipo": "continental",
+    "vecinos": [
+      "IDN"
+    ],
+    "n_vecinos": 1
+  },
+  "TGO": {
+    "iso3": "TGO",
+    "tipo": "continental",
+    "vecinos": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "n_vecinos": 3
+  },
+  "TON": {
+    "iso3": "TON",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "FJI",
+    "n_vecinos": 0
+  },
+  "TTO": {
+    "iso3": "TTO",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "VEN",
+    "n_vecinos": 0
+  },
+  "TUN": {
+    "iso3": "TUN",
+    "tipo": "continental",
+    "vecinos": [
+      "DZA",
+      "LBY"
+    ],
+    "n_vecinos": 2
+  },
+  "TUR": {
+    "iso3": "TUR",
+    "tipo": "continental",
+    "vecinos": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "n_vecinos": 8
+  },
+  "TKM": {
+    "iso3": "TKM",
+    "tipo": "continental",
+    "vecinos": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "n_vecinos": 4
+  },
+  "TUV": {
+    "iso3": "TUV",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "FJI",
+    "n_vecinos": 0
+  },
+  "UGA": {
+    "iso3": "UGA",
+    "tipo": "continental",
+    "vecinos": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "n_vecinos": 5
+  },
+  "UKR": {
+    "iso3": "UKR",
+    "tipo": "continental",
+    "vecinos": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "n_vecinos": 7
+  },
+  "ARE": {
+    "iso3": "ARE",
+    "tipo": "continental",
+    "vecinos": [
+      "OMN",
+      "SAU"
+    ],
+    "n_vecinos": 2
+  },
+  "GBR": {
+    "iso3": "GBR",
+    "tipo": "continental",
+    "vecinos": [
+      "IRL"
+    ],
+    "n_vecinos": 1
+  },
+  "USA": {
+    "iso3": "USA",
+    "tipo": "continental",
+    "vecinos": [
+      "CAN",
+      "MEX"
+    ],
+    "n_vecinos": 2
+  },
+  "URY": {
+    "iso3": "URY",
+    "tipo": "continental",
+    "vecinos": [
+      "ARG",
+      "BRA"
+    ],
+    "n_vecinos": 2
+  },
+  "UZB": {
+    "iso3": "UZB",
+    "tipo": "continental",
+    "vecinos": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "n_vecinos": 5
+  },
+  "VUT": {
+    "iso3": "VUT",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "AUS",
+    "n_vecinos": 0
+  },
+  "VAT": {
+    "iso3": "VAT",
+    "tipo": "continental",
+    "vecinos": [
+      "ITA"
+    ],
+    "n_vecinos": 1
+  },
+  "VEN": {
+    "iso3": "VEN",
+    "tipo": "continental",
+    "vecinos": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "n_vecinos": 3
+  },
+  "VNM": {
+    "iso3": "VNM",
+    "tipo": "continental",
+    "vecinos": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "n_vecinos": 3
+  },
+  "YEM": {
+    "iso3": "YEM",
+    "tipo": "continental",
+    "vecinos": [
+      "OMN",
+      "SAU"
+    ],
+    "n_vecinos": 2
+  },
+  "ZMB": {
+    "iso3": "ZMB",
+    "tipo": "continental",
+    "vecinos": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "n_vecinos": 8
+  },
+  "ZWE": {
+    "iso3": "ZWE",
+    "tipo": "continental",
+    "vecinos": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "n_vecinos": 4
+  },
+  "AUS": {
+    "iso3": "AUS",
+    "tipo": "isla",
+    "vecinos": [],
+    "pais_cercano": "IDN",
+    "n_vecinos": 0
+  }
+}
